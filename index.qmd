@@ -3,17 +3,29 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: pic.JPG
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-:::{#me}
-
+::: {#me}
 ## Goals
+
+My goal is to be a Wildlife Biologist in my home state for the New York
+State Department of Environmental Conservation!
 
 ## Education
 
-## Experience
+I received my Bachelors degree in Biology from the University at Albany
+and now I am pursuing my Masters in Wildlife Conservation and Biology at
+the University of New Hampshire.
 
+## Experience 
+
+Before coming to grad school, I worked for the Seneca Nation
+Environmental Protection Department as an Environmental Intern and then
+as the Climate Change Program Manager!
 :::
 
 Thanks for checking out my web site!
